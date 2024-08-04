@@ -1,0 +1,5 @@
+requests
+slack_sdk
+apscheduler
+django
+django_rest_framework
