@@ -11,9 +11,6 @@ This application fetches new vulnerabilities from the National Vulnerability Dat
 - [Configuration](#configuration)
 - [API Endpoints](#api-endpoints)
 - [File Structure and Description](#file-structure-and-description)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact Information](#contact-information)
 
 ## Installation
 
